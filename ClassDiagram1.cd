@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Console_OOP.Henger">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAIAAFAAAAAAAAAAAAIAAACAAIAQAAAAA=</HashCode>
+      <FileName>Henger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console_OOP.Cso">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <InheritanceLine Type="Console_OOP.Henger" ManuallyRouted="true">
+      <Path>
+        <Point X="6.75" Y="3.528" />
+        <Point X="7.575" Y="3.528" />
+        <Point X="7.575" Y="0.87" />
+        <Point X="8.425" Y="0.87" />
+        <Point X="8.425" Y="3.908" />
+        <Point X="9.25" Y="3.908" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAACAAgAAAAAAA=</HashCode>
+      <FileName>Cso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console_OOP.TomorHenger">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEAAAAQAAAAAAAAAAACAAAAAAABAA=</HashCode>
+      <FileName>TomorHenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
